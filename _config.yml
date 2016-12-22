@@ -32,18 +32,18 @@ logoalt: logo
 # List links that should appear in the site sidebar here
 navigation:
 - text: Home
-  url: ./
+  url: /index
   internal: true
 - text: Resources
   url: resources/
   internal: true
   children:
-  - text: Data Portal
-    url: data-portal/
-    internal: true
-  - text: ESRI
-    url: esri/
-    internal: true
+- text: Data Portal
+  url: /data-portal
+  internal: true
+- text: ESRI
+  url: /esri
+  internal: true
 - text: Go Data
   url: open-data/
   internal: true
