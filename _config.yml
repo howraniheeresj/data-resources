@@ -1,7 +1,9 @@
 # Base configuration
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 markdown: kramdown
-highlighter: rouge
+kramdown:
+  input: GFM
+highlighter: pygments
 
 collections:
   pages:
@@ -32,17 +34,17 @@ logoalt: logo
 # List links that should appear in the site sidebar here
 navigation:
 - text: Home
-  url: /index
+  url: ./
   internal: true
 - text: Resources
   url: resources/
   internal: true
   children:
 - text: Data Portal
-  url: /data-portal
+  url: resources/data-portal/
   internal: true
 - text: ESRI
-  url: /esri
+  url: resources/esri/
   internal: true
 - text: Go Data
   url: open-data/
