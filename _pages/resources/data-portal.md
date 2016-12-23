@@ -1,5 +1,6 @@
 ---
 title: Data Portal
+layout: page
 navtitle: Data Portal
 ---
 

@@ -14,7 +14,7 @@ Got questions you want answered? drop them into the City of Detroit's #geospatia
 
 
 * ArcGIS
-* [Socrata Open Data Portal](/resources/data-portal)
+* [Socrata Open Data Portal](data-portal/)
 * [QGIS](http://qgis.org)
-* [PostGRES & PostGIS](resources/postgres)
+* [PostGRES & PostGIS](postgres)
 * OpenStreetMap

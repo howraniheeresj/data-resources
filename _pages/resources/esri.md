@@ -1,9 +1,9 @@
 ---
 title: ESRI
+layout: page
 navtitle: ESRI
 ---
-
-###ArcGIS Online
+### ArcGIS Online
 ArcGIS Online is available to be used by City Employees. If you are interested in getting started email [Joel Howrani Heeres](xxxx@detroitmi.gov) to get started head over to the [sign-in page](http://detroitmi.maps.arcgis.com/)
 
 #### Helpful Guides
@@ -12,8 +12,8 @@ ArcGIS Online is available to be used by City Employees. If you are interested i
   * [Create Layer from CSV file](https://learn.arcgis.com/en/projects/get-started-with-arcgis-online/lessons/add-a-layer-from-a-csv-file.htm) - Add data to a map
   * [Create an Application](https://learn.arcgis.com/en/projects/get-started-with-arcgis-online/lessons/make-an-app.htm) - Create additional functionality for your maps
 
-###ArcDesktop
-To get started with ArcDesktop you'll need login credentials, request those from [Dexter Slusarski](dexter.slusarski@detroitmi.gov)
+### ArcDesktop
+To get started with ArcDesktop you'll need login credentials, request those from [Dexter Slusarski](mailto:dexter.slusarski@detroitmi.gov)
 
 ##### Download ArcGIS
 1. Login to [MyESRI](my.esri.com)
