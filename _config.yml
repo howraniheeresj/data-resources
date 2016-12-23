@@ -46,6 +46,10 @@ navigation:
 - text: ESRI
   url: resources/esri/
   internal: true
+- text: PostgreSQL
+  url: resources/postgres
+  internal: true
+
 - text: Go Data
   url: open-data/
   internal: true
